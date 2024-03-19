@@ -3,12 +3,12 @@ body{
 	font-size: 14px;
 }
 :root{
-	--color-negro:#282d33;
-	--menu-hover:#ec3642;
-	--color-rojo:#ec3642;
-	--fondo-header:#212121;
-	--fondo-footer:#212121;
-	--color-footer:#ccc;
+	color-negro:#282d33;
+	menu-hover:#ec3642;
+	color-rojo:#ec3642;
+	fondo-header:#212121;
+	fondo-footer:#212121;
+	color-footer:#ccc;
 }
 header{
 	background-color: var(--fondo-header);
